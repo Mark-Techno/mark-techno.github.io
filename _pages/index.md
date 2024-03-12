@@ -3,6 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
+author_profile: true
 title: <br><br><br><br><br><br>Toekomst Tech Honours Producten
 permalink: /
 header:
@@ -32,7 +33,9 @@ excerpt: "Een kijkje op de activiteiten van Mark tijdens de honours cursus<br><b
 ---
 
 ## Welkom
-Ik ben Mark Slingerland, en ik heb deze web pagina gemaakt om enkele aspecten en producten van de honourscursus _Toekomst Tech_ uit te lichten. Wees vrij om de verschillende paginas op deze website te bezoeken.
+Ik ben Mark Slingerland, en ik heb deze web pagina gemaakt om enkele aspecten en producten van de honourscursus _Toekomst Tech_ uit te lichten. 
+
+Wees vrij om de verschillende paginas op deze website te bezoeken.
 
 <!-- <div id='featured'></div> -->
 

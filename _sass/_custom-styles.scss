@@ -1,0 +1,5 @@
+.responsive-pdf {
+    width: 100%; /* Make the width 100% of the parent container */
+    height: 0; /* Height is calculated based on the aspect ratio */
+    padding-bottom: 75%; /* Adjust this value to set the aspect ratio (height/width) */
+}
