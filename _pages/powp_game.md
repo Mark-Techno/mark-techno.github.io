@@ -36,4 +36,4 @@ Hiervoor heb ik de programeertaal VBA gebruikt om functies te maken en deze te k
 ## Gebruik van activeX
 Een andere functionaliteit die ik nodig had voor het maken van dit concept zijn activeX elementen. Met het gebruik van activeX elementen was het mogelijk om invoer balkjes toe te voegen in de powerpoint waarmee met VBA de inhoud gecontroleerd kon worden voor een juist of verkeerd antwoord.
 
-![ActiveX element](/assets/images/activeX.jpg)
+![ActiveX element](/assets/images/activex.jpg)
