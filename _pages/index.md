@@ -33,9 +33,9 @@ excerpt: "Een kijkje op de activiteiten van Mark Slingerland tijdens de honours 
 ---
 
 ## Welkom
-Ik ben Mark Slingerland, en ik heb deze web pagina gemaakt om enkele aspecten en producten van de honourscursus _Toekomst Tech_ uit te lichten. 
+Ik ben Mark Slingerland, en ik heb deze web pagina gemaakt om enkele aspecten en producten van de honourscursus __Toekomst Tech__ te presenteren. 
 
-Wees vrij om de verschillende paginas op deze website te bezoeken.
+Wees vrij om de verschillende pagina's op deze web pagina te bezoeken en wellicht de producten uit te proberen.
 
 <!-- <div id='featured'></div> -->
 
