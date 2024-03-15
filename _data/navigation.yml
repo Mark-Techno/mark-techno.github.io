@@ -2,13 +2,13 @@
 main:
   - title: "VR Chao Garden"
     url: /VR-Chao-Garden/
-  - title: "Robotisering"
+  - title: "Interactieve Powerpoint"
+    url: /kunst-powerpoint-quiz/
+  - title: "AR Robot"
+    url: /AR-RoboEgg/
+  - title: "Robotisering stuk"
     url: /robotisering-blik/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Blik op AI"
+    url: /ai-blik/
   # - title: "Sitemap"
   #   url: /sitemap/

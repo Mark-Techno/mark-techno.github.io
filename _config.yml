@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "nl-NL"
-title                    : "Future Tech Honours Products"
+title                    : "Toekomst Tech - Honours Producten"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mark Slingerland"
-description              : "A web page displaying Future Tech Honours stuff."
+description              : "Een web pagina voor honourscursus Toekomst Tech."
 url                      : "https://mark-techno.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Mark-Techno/mark-techno.github.io"
@@ -140,10 +140,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:  "https://github.com/Mark-Shun"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/Mark-Shun"
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:

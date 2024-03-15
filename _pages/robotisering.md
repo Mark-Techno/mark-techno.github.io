@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 read_time: false
 comments: false
 share: false
@@ -9,10 +9,10 @@ permalink: /robotisering-blik/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/GunCupido.PNG
+  overlay_image: /assets/images/robo-sapiens-screenshot.png
 ---
 
-# Een toekomst met robots
+# Robotika en de toekomst
 
 Al tientallen jaren wordt er gespeculeert hoe robots het dagelijks leven kunnen veranderen. Er zijn verschillende producten momenteel beschikbaar die robotisering een stap dichterbij halen, de techniek ligt niet stil. 
 Tenzij je een liefhebber bent is er echter minder oog op deze tak van mechatronica: "Robotika".
@@ -20,4 +20,4 @@ Tijdens de toekomst tech bijeenkomst hebben we stil gestaan rondom de ontwikkeli
 We kregen specifiek de opdracht om een verslag te maken van een aflevering van de serie: Robo-Sapiens.
 Ik heb hiervoor een pdf gemaakt voor een aflevering dat focust op de relaties tussen mens en robot.
 
-<embed src="../assets/pdf/Robo-Sapiens-Relaties.pdf" type="application/pdf">
+<embed src="../assets/pdf/Robo-Sapiens-Aflevering-4-Relaties-V2.pdf" width="600px" height="600px" type="application/pdf">

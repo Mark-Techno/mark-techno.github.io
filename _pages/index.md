@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/1000x563-cropped.jpg
   #caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
-excerpt: "Een kijkje op de activiteiten van Mark tijdens de honours cursus<br><br>"
+excerpt: "Een kijkje op de activiteiten van Mark Slingerland tijdens de honours cursus<br><br>"
 # feature_row:
 #   - image_path: /assets/images/uncertainty.jpg
 #     alt: "Semantic Segmentation"

@@ -3,6 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
+author_profile: false
 title: <br><br><br><br><br>Een stuk over AI
 permalink: /ai-blik/
 header:
@@ -10,3 +11,5 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/GunCupido.PNG
 ---
+
+# De toekomst is nu?
