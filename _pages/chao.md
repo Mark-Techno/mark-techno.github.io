@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: single
 read_time: false
 comments: false
 share: false
@@ -33,6 +33,6 @@ De 3D wereld is bijna volledig met de gratis software Blender gemaakt. Het 3D mo
 ![Screenshot of Blender project file](/assets/images/blender-chao-garden-screenshot.jpg)
 
 ## APK voor de VR headset
-Maar met een 3D wereld in Blender zijn we er nog niet. Ik heb een gespecialiseerde tool gebruikt om het 3D bestand (.gltf is benodigd) om te zetten naar een bruikbare bestand voor de headset. Via de ["Quest Home Environments Converter/Builder" tool](https://github.com/VinceCrusty/Quest-Homes-Environment-Converter/releases) (nieuwste versies beschikbaar op de Discord server) is dit mogelijk, en het is ook nog eens mogelijk om dit bestand direct naar de aangesloten VR headset te uploaden (developer rechten zijn hiervoor waarschijnlijk benodigd). Er zijn verschillende opties en limieten binnen het benodigde .gltf bestandstype waar rekening mee gehouden moet worden, maar na heel veel trial en error is het uiteindelijk gelukt.
+Maar met een 3D wereld in Blender zijn we er nog niet. Ik heb een gespecialiseerde tool gebruikt om het 3D bestand (.gltf is benodigd) om te zetten naar een bruikbaar bestand voor de headset. Via de ["Quest Home Environments Converter/Builder" tool](https://github.com/VinceCrusty/Quest-Homes-Environment-Converter/releases) (nieuwste versies beschikbaar op de Discord server) is dit mogelijk, en het is ook nog eens mogelijk om dit bestand direct naar de aangesloten VR headset te uploaden (developer rechten zijn hiervoor waarschijnlijk benodigd). Er zijn verschillende opties en limieten binnen het benodigde .gltf bestandstype waar rekening mee gehouden moet worden, maar na heel veel trial & error is het uiteindelijk gelukt.
 
 ![Screenshot of the environment converter/builder tool](/assets/images/quest-environment-builder-screenshot.jpg)
