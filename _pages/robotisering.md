@@ -18,6 +18,7 @@ Al tientallen jaren wordt er gespeculeert hoe robots het dagelijks leven kunnen 
 Tenzij je een liefhebber bent is er echter minder oog op deze tak van mechatronica: "Robotika".
 Tijdens de toekomst tech bijeenkomst hebben we stil gestaan rondom de ontwikkelingen van robotika.
 We kregen specifiek de opdracht om een verslag te maken van een aflevering van de serie: Robo-Sapiens.
-Ik heb hiervoor een pdf gemaakt voor een aflevering dat focust op de relaties tussen mens en robot.
+Ik heb hiervoor een samenvatting gemaakt een aflevering \(4) dat focust op de relaties tussen mens en robot.
+Dit verslag kan hieronder in pdf vorm bekeken worden.
 
 <embed src="../assets/pdf/Robo-Sapiens-Aflevering-4-Relaties-V2.pdf" width="600px" height="600px" type="application/pdf">

@@ -9,7 +9,7 @@ permalink: /AR-RoboEgg/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/GunCupido.PNG
+  overlay_image: /assets/images/AR-eggrobo-screencap.jpg
 ---
 
 # Virtueel en realiteit smelten samen
@@ -18,10 +18,10 @@ Naast VR (Virtual Reality) hebben we ook AR (Augmented Reality) tijdens de cursu
 # RoboEgg vliegt rond in een ruimte
 Uiteindelijk heb ik in de web applicatie en mobiele app "CoSpaces" een wereld gemaakt waarbij een 3D gescande robot geprojecteerd wordt op het beeld van de camera en een rondje vliegt. Het leuke is dat, met behulp van verschillende sensoren in het mobieltje, behoudt de robot enigzins zijn positie in de driedimensionale ruimte. Ook al loop je rond of draai je om de robot heen je kan de robot op dezelfde positie terug vinden, al dan niet opgeschoven omdat de tracking niet perfect is en omdat de robot natuurlijk een rondje vliegt.
 
-__Voeg video toe van RoboEgg die rond vliegt__
+{% include video id="8T8D_Zt-x-E" provider="youtube" %}
 
 # Kan ik ook deze robot in mijn ruimte bekijken?
-Dat kan, deze "space" staat openbaar beschikbaar in de CoSpaces app. Je hebt hiervoor dus CoSpaces app nodig waarmee je de volgende link kan invullen of simpelweg de QR-code onder deze tekst kan inscannen. Dan zodra je in de space zit, tik je op het scherm om de robot te plaatsen.
+Dat kan, deze "space" staat openbaar beschikbaar in de CoSpaces app. Je hebt hiervoor dus CoSpaces app nodig waarbij je de QR-code onder deze tekst kan inscannen of door de code "MNYZCV in te vullen. Dan zodra je in de space zit, tik je op het scherm om de robot te plaatsen.
 
 ![Cospaces QR code naar EggRobo applicatie](/assets/images/eggrobo-%20cospaces-AR-QR.png)
 
@@ -29,9 +29,9 @@ Dat kan, deze "space" staat openbaar beschikbaar in de CoSpaces app. Je hebt hie
 ## 3D scan
 Dit project begon met mijn interesse in de 3D scanner beschikbaar in het HUB-lab. Doordeweeks was ik langs gekomen om deze te proberen te gebruiken met een klein figuurtje dat ik had meegenomen. Nadat het figuurtje een tijdje had gedraaid op de schijf langs de scanner, kwam een verassend gedetaileerde 3D model met al toegevoegde textures eruit. Dit 3D object bestond echter uit veel polygons waardoor het object duur zou zijn om te verwerken op een apparaat. Om deze reden had ik het object geimporteerd in Blender en verder geoptimaliseerd. Waarbij de totale bestandsgrootte van het 3D object werd terug gebracht van +100mb naar ~5mb. Vooral het aantal polygons was flink terug gebracht, wat op zich niet heel erg opvalt.
 
-__Voeg video toe van scanner en beeld__
+{% include video id="wlD69OwzI4M" provider="youtube" %}
 
 ## Cospace
-De cospace wereld heb ik vrij eenvoudig gehouden waarbij de robot is geimporteerd met de correcte animatie laag (het op en neer bewegen van de robot en heen en weer kijken is geanimeerd in Blender). In de CoSpaces project ruimte is een cirkel toegevoegd met een script dat zegt dat de EggRobo dit cirkel moet volgen. Verder is een vuur particle vast gemaakt aan de achterkant van de raket uitlaat.
+De cospace wereld heb ik vrij eenvoudig gehouden waarbij de robot is geimporteerd met de correcte animatie laag (het op en neer bewegen en rond kijken van de robot is geanimeerd in Blender). In de CoSpaces project ruimte is een cirkel toegevoegd met een script dat de instructie geeft aan de EggRobo om deze cirkel te volgen. Verder is een vuur particle vast gemaakt aan de achterkant van de raket uitlaat.
 
-__Voeg plaatje toe van Cospaces project__
+![Playground project in Cospaces](/assets/images/cospaces.jpg)
