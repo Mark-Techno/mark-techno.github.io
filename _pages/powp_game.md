@@ -17,8 +17,8 @@ TIjdens de thema avond over gamification werden we geintroduceerd over verschill
 
 ![Quiz vraag over een schilderij stroming](/assets/images/schilderij-stroming.jpg)
 
-# Probeer de Kunst Powerpoint Quiz uit!
-Dat kan, zo ver ik weet is het niet mogelijk om een powerpoint met macros online te laten draaien. En dus is het nodig om de powerpoint lokaal te downloaden, te openen, en macros toestaan. Indien de wens ervoor is, is het volgens mij mogelijk om de macro code te inspecteren voordat je het draait, om te controleren of er niks geks in staat.
+# Kan ik mijn kunst kennis beproeven?
+Dat kan, zo ver ik weet is het niet mogelijk om een powerpoint met macro's online te laten draaien. En dus is het nodig om de powerpoint lokaal te downloaden, te openen, en macro's er binnen toe te staan (waarschijnlijk verschijnt er een pop up). Indien de wens ervoor is, is het volgens mij mogelijk om de macro code te inspecteren voordat je het draait, om te controleren of er niks geks in staat.
 [Download het Powerpoint bestand](/assets/powerpoint/Kunst%20Quiz%20-%20Een%20Interactive%20Powerpoint.pptm)
 
 # Hoe is het gemaakt
@@ -34,6 +34,6 @@ Hiervoor heb ik de programeertaal VBA gebruikt om functies te maken en deze te k
 ![Afbeelding van macro code](/assets/images/functie-code.jpg)
 
 ## Gebruik van activeX
-Een andere functionaliteit die ik nodig had voor het maken van dit concept zijn activeX elementen. Met het gebruik van activeX elementen was het mogelijk om invoer balkjes toe te voegen in de powerpoint waarmee met VBA de inhoud gecontroleerd kon worden voor een juist of verkeerd antwoord.
+Een andere functionaliteit die ik nodig had voor het maken van dit concept zijn activeX elementen. Met het gebruik van activeX elementen was het mogelijk om invoer balkjes toe te voegen in de powerpoint waarmee met VBA de inhoud gecontroleerd kon worden, aan de hand van het antwoord kunnen dan punten wel of niet toegekend worden.
 
 ![ActiveX element](/assets/images/activex.jpg)
