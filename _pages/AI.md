@@ -13,7 +13,14 @@ header:
 ---
 
 # De toekomst is nu?
-De laatste jaren beleven we een AI revolutie, de toegenoemen rekenkracht van computer hardware, de terugkomst van (convolutionele) neurale netwerken en verder onderzoek en investeringen heeft ervoor gezorgd dat vandaag de dag om de week er wel een nieuwe technologie binnen AI uitkomt. Voor dit onderwerp heb ik een opname gemaakt over wat mijn blik is over AI, de ontwikkelingen en hoe dat nu en wellicht in toekomst impact op mij heeft.
+De laatste jaren beleven we een AI (artificiele intelligentie) revolutie, de toegenoemen rekenkracht van computer hardware, de terugkomst van (convolutionele) neurale netwerken en verder onderzoek en investeringen heeft ervoor gezorgd dat vandaag de dag om de week er wel een nieuwe technologie binnen AI uitkomt.
 
-# De opname
-(Nog toe te voegen, ik zit eraan te denken om een video voor de audio opname te monteren)
+# Mijn eigen ervaring
+Voor het thema AI heb ik een audio opname gemaakt waarin ik deel hoe ik naar deze technologie kijk en wat voor impact deze ontwikkeling op mij heeft gehad. Ook wordt een persoonlijke blik op de toekomst gedeeld.
+
+<audio controls>
+  <source src="/assets/audio/Opname_over_AI.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+Het kan echter wel gezegd worden dat het maken van een toekomstvoorspelling op dit gebied zeer lastig is. De investering is hoog, de ontwikkeling is snel (vanuit het perspectief van een gebruiker) en ik denk dat er veel meer ontwikkelt is dan dat er publiekelijk bekend/beschikbaar is.
