@@ -24,7 +24,7 @@ feature_row:
     url: "kunst-powerpoint-quiz"
     btn_label: "Gamification"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/AR-eggrobo-screencap.jpg
+  - image_path: /assets/images/AR-eggrobo-screencap-resized.jpg
     alt: "AR EggRobo"
     title: ""
     url: "AR-RoboEgg"
