@@ -10,6 +10,18 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/egg-carrier-chao-garden-thumbnail.png
+feature_row:
+  - image_path: /assets/images/outside/vr-brain.jpg
+    alt: "Brain and Virtual Reality"
+    title: "Brain and Virtual Reality"
+    url: "https://www.researchgate.net/profile/Brenda-Wiederhold/publication/332341918_Brain_and_Virtual_Reality_What_Do_they_Have_in_Common_and_How_to_Exploit_their_Potential_Paper_in_Annual_Review_of_Cybertherapy_and_Telemedicine_2018/links/5cae9b51a6fdcc1d498c1157/Brain-and-Virtual-Reality-What-Do-they-Have-in-Common-and-How-to-Exploit-their-Potential-Paper-in-Annual-Review-of-Cybertherapy-and-Telemedicine-2018.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D"
+    btn_label: "Paper"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/outside/vr-market.jpg
+    title: "VR market report"
+    url: "https://www.fortunebusinessinsights.com/industry-reports/virtual-reality-market-101378"
+    btn_label: "Report"
+    btn_class: "btn--inverse"
 ---
 # Een virtuele omgeving in VR
 
@@ -36,3 +48,8 @@ De 3D wereld is bijna volledig met de gratis software Blender gemaakt. Het 3D mo
 Maar met een 3D wereld in Blender zijn we er nog niet. Ik heb een gespecialiseerde tool gebruikt om het 3D bestand (.gltf is benodigd) om te zetten naar een bruikbaar bestand voor de headset. Via de ["Quest Home Environments Converter/Builder" tool](https://github.com/VinceCrusty/Quest-Homes-Environment-Converter/releases) (nieuwste versies beschikbaar op de Discord server) is dit mogelijk, en het is ook nog eens mogelijk om dit bestand direct naar de aangesloten VR headset te uploaden (developer rechten zijn hiervoor waarschijnlijk benodigd). Er zijn verschillende opties en limieten binnen het benodigde .gltf bestandstype waar rekening mee gehouden moet worden, maar na heel veel trial & error is het uiteindelijk gelukt.
 
 ![Screenshot of the environment converter/builder tool](/assets/images/quest-environment-builder-screenshot.jpg)
+
+# Verdere interessante VR artikelen
+<div id='featured'></div>
+
+{% include feature_row %}

@@ -10,6 +10,19 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/rococo-stroming.jpg
+feature_row:
+  - image_path: /assets/images/outside/gamification-class.jpg
+    alt: "The Gamification of Learning"
+    title: "The Gamification of Learning"
+    url: "https://link.springer.com/content/pdf/10.1007/s10648-019-09498-w.pdf"
+    btn_label: "Paper"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/outside/game-gamification.jpg
+    alt: "Gamification revolutionizing learning to code"
+    title: "Gamification revolutionizing learning to code"
+    url: "https://medium.com/@victor5.vm58/breaking-the-code-how-gamification-is-revolutionizing-learning-in-programming-0268671f5221"
+    btn_label: "Artikel"
+    btn_class: "btn--inverse"
 ---
 
 # Spelend leren
@@ -37,3 +50,8 @@ Hiervoor heb ik de programeertaal VBA gebruikt om functies te maken en deze te k
 Een andere functionaliteit die ik nodig had voor het maken van dit concept zijn activeX elementen. Met het gebruik van activeX elementen was het mogelijk om invoer balkjes toe te voegen in de powerpoint waarmee met VBA de inhoud gecontroleerd kon worden, aan de hand van het antwoord kunnen dan punten wel of niet toegekend worden.
 
 ![ActiveX element](/assets/images/activex.jpg)
+
+# Verdere interessante artikelen over gamification
+<div id='featured'></div>
+
+{% include feature_row %}

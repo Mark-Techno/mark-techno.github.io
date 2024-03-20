@@ -10,6 +10,21 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/AR-eggrobo-screencap.jpg
+feature_row:
+  - image_path: /assets/images/outside/ar-mechanic.jpg
+    alt: "Facilitating Mechanical Design with 
+Augmented Reality"
+    title: "Facilitating Mechanical Design with 
+Augmented Reality"
+    url: "https://dspace.mit.edu/bitstream/handle/1721.1/7448/IMST009.pdf;sequence=1"
+    btn_label: "Paper"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/outside/what-is-ar.jpg
+    alt: "What Is Augmented Reality?"
+    title: "What Is Augmented Reality?"
+    url: "https://builtin.com/machine-learning/augmented-reality"
+    btn_label: "Blog"
+    btn_class: "btn--inverse"
 ---
 
 # Virtueel en realiteit smelten samen
@@ -35,3 +50,8 @@ Dit project begon met mijn interesse in de 3D scanner beschikbaar in het HUB-lab
 De cospace wereld heb ik vrij eenvoudig gehouden waarbij de robot is geimporteerd met de correcte animatie laag (het op en neer bewegen en rond kijken van de robot is geanimeerd in Blender). In de CoSpaces project ruimte is een cirkel toegevoegd met een script dat de instructie geeft aan de EggRobo om deze cirkel te volgen. Verder is een vuur particle vast gemaakt aan de achterkant van de raket uitlaat.
 
 ![Playground project in Cospaces](/assets/images/cospaces.jpg)
+
+# Verdere interessante artikelen over AR
+<div id='featured'></div>
+
+{% include feature_row %}
