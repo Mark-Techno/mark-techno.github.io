@@ -30,6 +30,18 @@ feature_row:
     url: "AR-RoboEgg"
     btn_label: "AR"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/robo-sapiens-screenshot.png
+    alt: "Robotisering"
+    title: ""
+    url: "robotisering-blik"
+    btn_label: "Robotisering"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/ai-voice.png
+    alt: "AI"
+    title: ""
+    url: "ai-blik"
+    btn_label: "AI"
+    btn_class: "btn--inverse"
 ---
 
 ## Welkom
