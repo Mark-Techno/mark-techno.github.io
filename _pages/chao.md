@@ -18,6 +18,7 @@ feature_row:
     btn_label: "Paper"
     btn_class: "btn--inverse"
   - image_path: /assets/images/outside/vr-market.jpg
+    alt: "Brain and Virtual Reality"
     title: "VR market report"
     url: "https://www.fortunebusinessinsights.com/industry-reports/virtual-reality-market-101378"
     btn_label: "Report"
