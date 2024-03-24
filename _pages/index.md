@@ -47,7 +47,7 @@ feature_row:
 ## Welkom
 Ik ben Mark Slingerland, en ik heb deze web pagina gemaakt om enkele aspecten en producten van de honourscursus __Toekomst Tech__ te presenteren. 
 
-Wees vrij om de verschillende pagina's op deze web pagina te bezoeken en wellicht de producten uit te proberen.
+Wees vrij om de verschillende pagina's op deze web pagina te bezoeken en wellicht de producten zelf uit te proberen.
 
 <div id='featured'></div>
 

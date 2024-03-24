@@ -27,10 +27,10 @@ feature_row:
 
 # Robotika en de toekomst
 
-Al tientallen jaren wordt er gespeculeert hoe robots het dagelijks leven kunnen veranderen. Er zijn verschillende producten momenteel beschikbaar die robotisering een stap dichterbij halen, de techniek ligt niet stil. 
-Tenzij je een liefhebber bent is er echter minder oog op deze tak van mechatronica: "Robotika".
+Al tientallen jaren wordt er gespeculeert hoe robots het dagelijks leven zouden kunnen veranderen. Er zijn verschillende producten momenteel beschikbaar die robotisering een stap dichterbij brengen, de techniek ligt niet stil. 
+Tenzij je op robotika focust is er echter minder oog op deze tak van mechatronica.
 Tijdens de toekomst tech bijeenkomst hebben we stil gestaan rondom de ontwikkelingen van robotika.
-We kregen specifiek de opdracht om een verslag te maken van een aflevering van de serie: Robo-Sapiens.
+We kregen specifiek de opdracht om een verslag te maken voor een aflevering van de serie: Robo-Sapiens.
 Ik heb hiervoor een samenvatting gemaakt van een aflevering \(4) dat focust op de relaties tussen mens en robot.
 Dit verslag kan hieronder in pdf vorm bekeken worden. __(Let op: ook suggestieve relaties worden hierin behandeld)__
 

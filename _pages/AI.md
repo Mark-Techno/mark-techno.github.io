@@ -31,7 +31,7 @@ feature_row:
 ---
 
 # De toekomst is nu?
-De laatste jaren beleven we een AI (artificiele intelligentie) revolutie, de toegenoemen rekenkracht van computer hardware, de terugkomst van (convolutionele) neurale netwerken en verder onderzoek en investeringen heeft ervoor gezorgd dat vandaag de dag om de week er wel een nieuwe technologie binnen AI lijkt uit te komen. We gaan een zeer boeiende en welicht zelfs levensveranderende tijd tegemoet als het gaat om AI. De pagina's op deze website zijn overigens niet met AI geschreven. ;\) 
+De laatste jaren beleven we een AI (artificiele intelligentie) revolutie, de toegenoemen rekenkracht van computer hardware. De terugkomst van (convolutionele) neurale netwerken en verdere onderzoek en investeringen heeft ervoor gezorgd dat vandaag de dag om de week er wel een nieuwe technologie binnen AI lijkt uit te komen. We gaan een zeer boeiende en welicht zelfs levensveranderende tijd tegemoet als het gaat om AI. De pagina's op deze website zijn overigens niet met AI geschreven. ;\) 
 
 # Mijn eigen ervaring
 Voor het thema AI heb ik een audio opname gemaakt waarin ik deel hoe ik naar deze technologie kijk en wat voor impact deze ontwikkeling op mij heeft gehad. Ook wordt een persoonlijke blik op de toekomst gedeeld.
